@@ -1,0 +1,51 @@
+_repo: Bataille-de-dames_12472
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Scribe, Eugène
+    aliases:
+    - Scribe, E. (Eugène)
+    - Scribe, Augustin Eugène
+    - Scribe, Eugene
+    birthdate: 1791
+    deathdate: 1861
+    gutenberg_agent_id: '4444'
+    url: http://www.gutenberg.org/2009/agents/4444
+    wikipedia: http://en.wikipedia.org/wiki/Eugène_Scribe
+  - agent_name: Legouvé, Ernest
+    aliases:
+    - Legouve, Ernest
+    - Legouvé, E. (Ernest)
+    - Legouvé, Gabriel Jean Baptiste Ernest Wilfrid
+    - Legouvé, Joseph Wilfrid Ernest Gabriel
+    birthdate: 1807
+    deathdate: 1903
+    gutenberg_agent_id: '4628'
+    url: http://www.gutenberg.org/2009/agents/4628
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Legouv%C3%A9
+  editor:
+    agent_name: Wells, B. W. (Benjamin Willis)
+    alias: Wells, Benjamin Willis
+    birthdate: 1856
+    deathdate: 1923
+    gutenberg_agent_id: '4500'
+    url: http://www.gutenberg.org/2009/agents/4500
+description: Includes introduction, notes, and vocabulary in English
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12472'
+language:
+- en
+- fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Comedies'
+- !lcsh 'French drama -- 19th century'
+- GITenberg
+title: Bataille de dames
+url: http://www.gutenberg.org/ebooks/12472
