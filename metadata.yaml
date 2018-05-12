@@ -1,5 +1,8 @@
 _repo: Bataille-de-dames_12472
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Scribe, Eugène
@@ -31,6 +34,8 @@ creator:
     gutenberg_agent_id: '4500'
     url: http://www.gutenberg.org/2009/agents/4500
 description: Includes introduction, notes, and vocabulary in English
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12472#Bataille-de-dames
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
